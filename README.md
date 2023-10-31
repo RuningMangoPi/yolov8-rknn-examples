@@ -9,3 +9,5 @@ make pro
 ## 4. Run project
 cd workspace  
 ./pro  
+## 5. Cite
+https://github.com/triple-Mu/YOLOv8-TensorRT
