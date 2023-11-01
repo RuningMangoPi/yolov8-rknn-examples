@@ -13,4 +13,7 @@
 ***
 # Download lean
 - 链接：链接：https://pan.baidu.com/s/13gP5l3fd4AfWATqgkKTiwQ  
-- 提取码：7vp0  
+- 提取码：7vp0
+
+# For more, please refer to
+- https://github.com/shouxieai/tensorRT_Pro/tree/main
